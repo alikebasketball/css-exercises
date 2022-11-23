@@ -3,7 +3,6 @@ body{
     padding: 50px;
 }
 .first-btn, .secound-btn{
-    border: solid 4px gray;
     font-size: 28px;
     font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
 }
