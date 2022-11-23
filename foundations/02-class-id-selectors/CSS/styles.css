@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 10px;
+}
+.reds{
+    background-color: rgb(184, 61, 83);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+#blue{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+.large{
+    font-size: 24px;
+}
+#green{
+    background-color: rgb(140, 228, 140);
+    font-size: 24px;
+    font-weight: bold;
+}
