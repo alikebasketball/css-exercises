@@ -1,0 +1,17 @@
+body{
+    margin: 150px;
+    padding: 50px;
+}
+.first-btn, .secound-btn{
+    border: solid 4px gray;
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
+.first-btn{
+    background-color: black;
+    color: #fff;
+}
+.secound-btn{
+    background-color: yellow;
+    color: black;
+}
